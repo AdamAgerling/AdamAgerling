@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-My Name is Adam and Im currently studying to become a Front-end developer.<br>My studies will be completed in june 2023.
+My Name is Adam and Im currently studying to become a Front-end/"Fullstack" developer.<br>My studies will be completed in june 2023.
 
 ## 🌐 Socials:
 
