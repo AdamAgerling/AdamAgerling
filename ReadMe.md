@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-My name is Adam and I sometimes do stuff.
+My name is Adam and I am an aspiring .NET developer, currently studying .NET Development at IT-Högskolan Gothenburg.
 
 ## 🌐 Socials:
 
